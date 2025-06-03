@@ -1,2 +1,5 @@
-# Encrypt-and-Decrypt
-This project allows you to Encrypt/Decrypt your messages using various different cipher giving you choices and different levels from Caesar cipher to hash encryption
+COMMANDS TO RUN
+
+python -m venv env 
+.\env\Scripts\activate
+pip install -r requirements.txt
